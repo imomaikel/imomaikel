@@ -3,32 +3,32 @@
 ## 💫 About Me:
 - 🔭 **I'm currently working on:** 
 Full-time fullstack development, and in my free time I freelance - mostly building e-commerce platforms and developing my own projects, which I plan to scale into something much bigger.
-<br>
+
 - 🌱 **I'm currently learning:** 
 Deep-diving into React Native, exploring AI, and preparing for a cloud certification (AWS).
 From past projects I'm focusing heavily on error handling, performance, and automation - building smarter, more stable systems.
-<br>
+
 - 👯 **I'm looking to collaborate with:** 
 People who are just as obsessed with tech as I am - to share knowledge, build a team, or create something wild and next-level.
-<br>
+
 - 🤔 **I'm looking for help with:** 
 Expanding my network and meeting devs who want to build meaningful, ambitious projects.
-<br>
+
 - 💬 **Ask me about:** 
 Next.js, React, Node.js, PostgreSQL - or whatever new tech dropped this month. I keep up.
-<br>
+
 - 📫 **How to reach me:** 
   - Email: **michal03.kolodziejczyk@gmail.com** 
   - Discord: `imomaikel` 
   - Website: [imomaikel.dev](https://imomaikel.dev)
-<br>
+
 - ⚡ **Fun fact:**
   - I've *never* deleted a production database 😎 (yet).
   - Still waiting for my "Senior Dev initiation ritual" but for now - undefeated.
-<br>
+
 - 🎧 **Biggest [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) fan (no shame):** 
 His music keeps me grounded, motivated, and coding like I'm in a dramatic montage scene.
-<br>
+
 - 🥋 **How I stay sharp:** 
 I run, go to the gym, and train kickboxing - it helps me stay focused during long dev sessions and ready for any bugs that try to fight back.
 
