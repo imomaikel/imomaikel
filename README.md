@@ -15,7 +15,3 @@ Building scalable, high-performance systems and e-commerce platforms.
 * Email: michal03.kolodziejczyk@gmail.com
 * Web: [imomaikel.dev](https://imomaikel.dev)
 * Discord: `imomaikel`
-
-## 📊 Analytics
-![](https://nirzak-streak-stats.vercel.app/?user=imomaikel&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=imomaikel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
