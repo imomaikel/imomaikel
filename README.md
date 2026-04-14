@@ -14,4 +14,3 @@ Building scalable, high-performance systems and e-commerce platforms.
 ## 📡 Contact & Links
 * Email: michal03.kolodziejczyk@gmail.com
 * Web: [imomaikel.dev](https://imomaikel.dev)
-* Discord: `imomaikel`
